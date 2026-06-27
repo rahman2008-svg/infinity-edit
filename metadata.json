@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Edit",
+  "description": "A fully-featured pro photo editor and Lightroom clone with filters, fine-grained slider controls (exposure, contrast, saturation, highlights, shadows, color temperature), cropping, preset management, and edit history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
